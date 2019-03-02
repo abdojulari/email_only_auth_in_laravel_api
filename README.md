@@ -1,6 +1,11 @@
 # email_only_auth_in_laravel_api
 **Creating an email-only authentication using Laravel Passport and Bearer Token"**
+
+
 **Get Started**
+
+
+
 Step 1: 
 You need to do the following to get started
 ```php
@@ -16,6 +21,8 @@ Type
 
 ```
 Step 3
+
+
 Type the command in your terminal to generate Personal Access Token 
 ```php 
    php artisan passport:install 
